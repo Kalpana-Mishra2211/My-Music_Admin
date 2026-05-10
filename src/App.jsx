@@ -1,9 +1,9 @@
 // AdminApp.jsx
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import AdminLayout from "./AdminLayout";
-import Dashboard from "./pages/Dashboard/Dashboard";
-import ArtistApproval from "./pages/Artist/ArtistApproval";
-import MusicApproval from "./pages/Music/MusicApproval";
+import Dashboard from "./Pages/Dashboard/Dashboard";
+import ArtistApproval from "./Pages/Artist/ArtistApproval";
+import MusicApproval from "./Pages/Music/MusicApproval";
 import Login from "./Components/Login ";
 import ProtectedRoute from "./Components/ProtectedRoute";
 import User from "./Pages/User/User";
