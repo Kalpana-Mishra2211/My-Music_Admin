@@ -1,4 +1,3 @@
-// components/Header.jsx
 import { useState } from "react";
 import { 
   Menu, 
